@@ -1,4 +1,4 @@
-# d2c_data_eng_challenge
+# DTC Data Engineer Challenge
 Assignment for those applying to the Direct-to-Consumer Data Engineer position.
 
 To help us better assess a candidates analytics engineering skills, we kindly ask that you complete the following challenge. You should not have to spend more than four hours on this assignment.
